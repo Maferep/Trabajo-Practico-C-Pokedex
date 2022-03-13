@@ -1,0 +1,18 @@
+----------COMANDOS DE POKEDEX--------------
+
+ESTADO DE POKEDEX: ENCENDIDO
+
+    Guardar Pokedex (tecla G): Guarda la Pokedex. Deberá guardar la infomación en el archivo pokedex.txt.
+    Salir del programa (tecla S): Finaliza la ejecución del programa sin guardar la información.
+    Ayuda (tecla H): Informa cuales son los comandos válidos a utilizar en cada momento.
+    Avistar Pokémon (tecla A): Actualizará la Pokedex incorporando a ella los Pokémon avistados. La información
+de los nuevos avistamientos se encuenta en en archivo avistamientos.txt.
+    Evolucionar Pokémon (tecla E): Actualizará la Pokedex evolucionando los Pokémon que así lo hayan hecho. La
+información de las nuevas evoluciones se encuenta en en archivo evoluciones.txt.
+    Capturas recientes (tecla C): Muestra los últimos Pokémon capturados.
+    Vistas recientes (tecla V): Muestra los últimos Pokémon vistos.
+    Información especie (tecla M): Muestra la información de la especie.
+    Información Pokémon (tecla P): Muestra la información de un Pokémon de una determinada especie.
+Si la letra ingresada no corresponde a un comando válido, deberá volver a pedirse hasta que sea válida, volviendo a
+informar cuales son los comandos disponibles en ese momento.
+--------.---------

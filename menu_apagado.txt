@@ -1,0 +1,8 @@
+----------COMANDOS DE POKEDEX--------------
+
+ESTADO DE POKEDEX: APAGADO
+
+    Iniciar Pokedex (tecla I): Da inicio a la Pokedex. Deberá leer la infomación del archivo pokedex.txt.
+    Salir del programa (tecla S): Finaliza la ejecución del programa sin guardar la información.
+    Ayuda (tecla H): Informa cuales son los comandos válidos a utilizar en cada momento.
+    --------.---------
